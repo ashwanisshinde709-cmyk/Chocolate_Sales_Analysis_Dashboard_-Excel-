@@ -1,64 +1,73 @@
-🍫 Chocolate Sales Analysis Dashboard (Microsoft Excel)
 
+ 🍫 Chocolate Sales Analysis Dashboard (Microsoft Excel)
 
 📌 Project Overview
+The **Chocolate Sales Analysis Dashboard** is an interactive Microsoft Excel dashboard developed to analyze and visualize chocolate sales data. The dashboard provides valuable business insights by tracking sales performance across different countries, products, sales representatives, quarters, and months.
 
-The Chocolate Sales Analysis Dashboard is an interactive Excel dashboard designed to analyze chocolate sales performance across different countries, sales representatives, products, quarters, and months. It transforms raw sales data into meaningful business insights using Excel's data analysis and visualization features.
+Using Pivot Tables, Pivot Charts, KPI Cards, and Slicers, the dashboard allows users to explore data dynamically and make informed business decisions.
 
-This dashboard enables users to monitor key performance indicators (KPIs), compare sales trends, and make data-driven decisions through interactive slicers and dynamic charts.
+---
 
-🎯 Objectives
+ 🎯 Objectives
+- Analyze overall sales performance.
+- Compare sales across different countries.
+- Monitor sales trends by month and quarter.
+- Identify top-performing products and sales representatives.
+- Build an interactive dashboard for business reporting.
 
-Analyze overall chocolate sales performance.
-Compare sales across countries and sales representatives.
-Monitor monthly and quarterly sales trends.
-Identify top-performing products and regions.
-Build an interactive dashboard for quick business insights.
+---
 
-📊 Dashboard Features
+ 🛠️ Tools & Skills Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Data Cleaning
+- Excel Formulas
+- Data Visualization
+- Dashboard Design
 
-Interactive Slicers
-Country
-Quarter
-Product
-Sales Person
-Month
-Key Performance Indicators (KPIs)
-Total Sales by Person
-Total Products Sold
-Countries Served
-Quarterly Sales
-Monthly Sales
-Visualizations
-Sales by Country (Column Chart)
-Sales by Person (Bar Chart)
-Quarter-wise Sales Distribution (Pie Chart)
-Product Sales Analysis (Column Chart)
-Monthly Sales Trend (Line Chart)
-🛠 Tools & Skills Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-KPI Cards
-Data Cleaning
-Excel Formulas
-Dashboard Design & Formatting
+---
+ 📊 Dashboard Features
+- 📌 Interactive Slicers
+  - Country
+  - Product
+  - Sales Person
+  - Quarter
+  - Month
 
-📈 Key Insights
+- 📈 KPI Cards
+  - Total Sales by Person
+  - Products Sold
+  - Countries Served
+  - Quarterly Sales
+  - Monthly Sales
 
-Compare sales performance across multiple countries.
-Track monthly and quarterly sales trends.
-Identify top-performing sales representatives.
-Analyze product-wise sales performance.
-Filter data instantly using interactive slicers.
+- 📉 Visualizations
+  - Sales by Country
+  - Sales by Sales Person
+  - Product Sales Analysis
+  - Quarterly Sales Distribution
+  - Monthly Sales Trend
 
 
-<img width="785" height="355" alt="Screenshot 2026-07-22 203554" src="https://github.com/user-attachments/assets/3a596d45-1a89-40bb-b5d1-580183ee9d1a" />
+
+📸 Dashboard Preview
+
+<img width="785" height="355" alt="Screenshot 2026-07-22 203554" src="https://github.com/user-attachments/assets/6b991132-483e-419c-8e5b-d15361886965" 
+
+Key Insights
+- Compare sales performance across multiple countries.
+- Identify top-performing sales representatives.
+- Analyze product-wise sales performance.
+- Monitor monthly and quarterly sales trends.
+- Filter reports instantly using interactive slicers.
+- Support data-driven business decision-making.
 
 
-📂 Project Outcome
 
+ 📂 Project Outcome
+This dashboard converts raw sales data into meaningful visual insights, making it easier to monitor performance, identify trends, and support strategic business decisions. The project demonstrates practical Excel skills in data analysis, dashboard development, and business intelligence reporting.
 
-This dashboard provides a clear and interactive view of chocolate sales performance, helping users quickly identify trends, evaluate business performance, and support better decision-making.
 
