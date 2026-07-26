@@ -53,6 +53,10 @@ Identify top-performing sales representatives.
 Analyze product-wise sales performance.
 Filter data instantly using interactive slicers.
 
+
+<img width="785" height="355" alt="Screenshot 2026-07-22 203554" src="https://github.com/user-attachments/assets/3a596d45-1a89-40bb-b5d1-580183ee9d1a" />
+
+
 📂 Project Outcome
 
 
